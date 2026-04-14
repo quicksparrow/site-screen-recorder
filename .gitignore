@@ -1,0 +1,19 @@
+﻿# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Editor folders
+.vscode/
+.idea/
+
+# Vercel local cache
+.vercel/
